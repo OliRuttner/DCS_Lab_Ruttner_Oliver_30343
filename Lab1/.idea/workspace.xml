@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4adcf73b-3340-4a55-a1ed-d587b16cbd15" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/dcs/net/datagram/QuoteClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/dcs/net/datagram/QuoteServerThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/dcs/net/datagram/one-liners.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/scd/net/httpexample/HttpServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/scd/net/httpexample/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/scd/net/httpexample/index.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/scd/net/nonblocking/NonBlockingClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/scd/net/nonblocking/NonBlockingServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/scd/net/serialization/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/scd/net/serialization/Pers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/scd/net/serialization/SerialTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/scd/net/socket/MultiThreadedServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/scd/net/socket/SimpleClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/scd/net/socket/SimpleServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/scd/net/url_http/ContentDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/scd/net/url_http/SourceViewer.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/An4/DCS/Lab/DCS_Lab_Ruttner_Oliver_30343/Lab1" value="3K5OTjIAvSGO2dqfoTnVjKpxWPk" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;OliRuttner&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:OliRuttner/DCS_Lab_Ruttner_Oliver_30343.git&quot;,
+    &quot;accountId&quot;: &quot;221dd337-5348-4ffb-a87a-992a58ef13fc&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3K5LGkgsuFYE3RHton9IBGf1qjA" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CalculatorClient.executor": "Run",
+    "Application.CalculatorServer.executor": "Run",
+    "Application.MultiThreadedServer.executor": "Run",
+    "Application.NonBlockingClient.executor": "Run",
+    "Application.NonBlockingServer.executor": "Run",
+    "Application.SimpleClient.executor": "Run",
+    "Application.SimpleServer.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/An4/DCS/Lab/DCS_Lab_Ruttner_Oliver_30343/Lab1/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="CalculatorClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.scd.net.calculator.CalculatorClient" />
+      <module name="Lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.scd.net.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.scd.net.calculator.CalculatorServer" />
+      <module name="Lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.scd.net.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NonBlockingClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.scd.net.nonblocking.NonBlockingClient" />
+      <module name="Lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.scd.net.nonblocking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NonBlockingServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.scd.net.nonblocking.NonBlockingServer" />
+      <module name="Lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.scd.net.nonblocking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.scd.net.socket.SimpleClient" />
+      <module name="Lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.scd.net.socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleClient" />
+        <item itemvalue="Application.NonBlockingClient" />
+        <item itemvalue="Application.NonBlockingServer" />
+        <item itemvalue="Application.CalculatorClient" />
+        <item itemvalue="Application.CalculatorServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4adcf73b-3340-4a55-a1ed-d587b16cbd15" name="Changes" comment="" />
+      <created>1790842391716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790842391716</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1790842720174</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790842720174</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+</project>
